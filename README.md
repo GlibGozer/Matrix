@@ -1,2 +1,2 @@
 # Matrix
-still in development, stfu y'all
+The all-feature Discord bot. Still in development and not public.
